@@ -1,0 +1,12 @@
+.photos{
+    height: 800px;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    border: 2px solid red;
+}
+.box-item{
+    height: 200px;
+    width: 200px;
+}
